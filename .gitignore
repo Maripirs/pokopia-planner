@@ -1,0 +1,6 @@
+# Only the planner site is published; screenshots, tools and drafts stay local.
+*
+!.gitignore
+!index.html
+!layouts.json
+!README.md
